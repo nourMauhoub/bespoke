@@ -1,5 +1,38 @@
-# Vue 3 + Vite
+# Bespoke
+Specialy Made for You# 🛒 Bespoke Artisans 
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+DemoStore
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+**Modern store platform** built with Vue.js, Tailwind CSS, and Vuex. Features product search, filtering, sorting, and an admin dashboard for CRUD operations. Integrated with the [FakeStoreAPI](https://fakestoreapi.com/).
+
+ 
+*Live Demo: [https://bespokeartisans.netlify.app/]
+
+---
+
+## ✨ Features  
+- **Product Search**: Instant search by title/description.  
+- **Filter & Sort**: Filter by category, sort by price/title.  
+- **Admin Dashboard**: Add/edit/delete products (CRUD).  
+- **Responsive Design**: Tailwind CSS.  
+- **Pagination**: Smooth navigation with auto-scroll to top.  
+
+---
+
+## 🚀 Tech Stack  
+- **Frontend**: Vue.js 3, Vue Router  
+- **State Management**: Vuex  
+- **Styling**: Tailwind CSS, fontawesome icons  
+- **API Integration**: [FakeStoreAPI](https://fakestoreapi.com/)  
+
+---
+
+## 📦 Setup  
+1. Clone the repo:  
+   git clone https://github.com/your-username/bespoke-artisans.git
+
+2. Install dependencies:
+npm install  
+
+3. Start the dev server:
+npm run serve  

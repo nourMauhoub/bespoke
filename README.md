@@ -27,12 +27,13 @@ DemoStore
 
 ---
 
-## 📦 Setup  
+## � Setup  
 1. Clone the repo:  
-   git clone https://github.com/your-username/bespoke-artisans.git
+   git clone https://github.com/nourMauhoub/bespoke-artisans.git
 
 2. Install dependencies:
 npm install  
 
 3. Start the dev server:
 npm run serve  
+
